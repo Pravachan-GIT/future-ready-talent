@@ -25,4 +25,4 @@ All the available fruit products are displayed in the fruits galary as below.
 
 Customer satisfaction and feedback is valued in the organization and hence Contact Us section is made with all the Address and Telephone of the organization
 
-The link to the website is: https://mango-moss-0406b1110.2.azurestaticapps.net/
+The link to the website is: https://polite-sand-078454210.2.azurestaticapps.net
